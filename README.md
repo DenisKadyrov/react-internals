@@ -3,8 +3,8 @@ React Internals
 Here I'm testig React functions, trying to implement my own React From Scratch for deeply understand
 
 ## Run
-### Example.js
 ```
+# test.jsx is file where testing reactFS functions
 cd react-internals
-npx serve .
+npm run dev
 ```
